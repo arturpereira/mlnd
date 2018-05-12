@@ -1,7 +1,9 @@
 # Capstone Project - Cartola FC
 Author: Artur Pereira
+
+Contact: arturcp@gmail.com
 ## Requirements
-The notebooks for this project was built with Python 3.7 and the XGBoost module.
+The notebooks for this project require Python 3.7 and the XGBoost module.
 ## Outline
 ```
 Capstone Project
